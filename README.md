@@ -3,9 +3,9 @@ My first repository
 **Lucifer Season 1-6**
  ```
 {
-  "firstName": "Lucifer",
-  "lastName": "Morning Star",
-  "age": 13.8+ Billion Years Old
+  **Lucifer **
+  **Morning Star**
+  **13.8+ Billion Years Old**
 }
 ```
 [Lucifer]([https://www.example.com](https://www.imdb.com/title/tt4052886/)
