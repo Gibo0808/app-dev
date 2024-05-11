@@ -20,6 +20,7 @@ My first repository
 }
 ```
 [Link(https://www.imdb.com/name/nm0314514/?ref_=tt_cl_i_2)
+
 ![](LuciferMorningStar.jpg)
 **Chloe Decker is a homicide detective and member of the L.A.P.D. She first met Lucifer when she was investigating a murder at Lux, the nightclub that he owns. The two later become partners when Lucifer is hired as a police consultant. While Lucifer does tell Chloe that he is the devil throughout the series, she doesn't believe it until the season three finale, when she accidentally sees his devil face. While she was initially shocked at the discovery, she later realizes that her connection to Lucifer is real, and she confesses her love to him.**
 
