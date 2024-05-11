@@ -1,12 +1,12 @@
 # app-dev
 My first repository
 **Lucifer Season 1-6**
- ```
-
-  **Lucifer **
-  **Morning Star**
-  **13.8+ Billion Years Old**
-
+```
+{
+  "firstName": "Lucifer",
+  "lastName": "MorningStar",
+  "age": 13.4+ Billion years old
+}
 ```
 [Lucifer]([https://www.example.com](https://www.imdb.com/title/tt4052886/)
 ![Lucifer MorningStar](LuciferMorningStar.jpg)
